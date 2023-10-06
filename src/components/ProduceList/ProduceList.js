@@ -7,8 +7,6 @@ function ProduceList() {
 
   const produceArr = Object.values(produce);
 
-
-
   return (
     <>
       <h2>All produce</h2>
